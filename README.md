@@ -8,13 +8,13 @@ API to scrape search results and product details from Flipkart
 
 ![Flipkart API Banner](/banner.png)
 
-![Version](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdvishal485%2Fflipkart-scraper-api%2Fmain%2FCargo.toml&query=package.version&label=version)
-[![GitHub license](https://img.shields.io/github/license/dvishal485/flipkart-scraper-api)](https://github.com/dvishal485/flipkart-scraper-api/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/dvishal485/flipkart-scraper-api)](https://github.com/dvishal485/flipkart-scraper-api/issues)
-[![Telegram](https://img.shields.io/badge/-dvishal485-blue?style=flat&logo=telegram)](https://t.me/dvishal485)
-[![Documentation](https://img.shields.io/badge/API-Documentation-blue)](https://dvishal485.github.io/flipkart-scraper-api/)
+![Version](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fva5355%2Fflipkart-scraper-api%2Fmain%2FCargo.toml&query=package.version&label=version)
+[![GitHub license](https://img.shields.io/github/license/va5355/flipkart-scraper-api)](https://github.com/va5355/flipkart-scraper-api/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/va5355/flipkart-scraper-api)](https://github.com/va5355/flipkart-scraper-api/issues)
+[![Telegram](https://img.shields.io/badge/-va5355-blue?style=flat&logo=telegram)](https://t.me/va5355)
+[![Documentation](https://img.shields.io/badge/API-Documentation-blue)](https://scraper-api-eyiz.onrender.com/)
 
-**For documentation visit :** [Flipkart Scraper API](https://dvishal485.github.io/flipkart-scraper-api/)
+**For documentation visit :** [Flipkart Scraper API](https://scraper-api-eyiz.onrender.com/)
 
 ---
 
@@ -22,7 +22,7 @@ API to scrape search results and product details from Flipkart
 
 This API is being shipped only as a Docker image now and not as a hosted URL, due to over-exploitation of the API and lack of funds & free-tier limitations. The hosted API URL has been taken down. [Check out Deployement using Docker](#deployment)
 
-The API has been rewritten in Rust. With this process, a multitude of unexpected errors have been addressed with improved accuracy and better scraping mechanism. [Refer issue #13](https://github.com/dvishal485/flipkart-scraper-api/issues/13) and [Refer issue #12](https://github.com/dvishal485/flipkart-scraper-api/issues/12).
+The API has been rewritten in Rust. With this process, a multitude of unexpected errors have been addressed with improved accuracy and better scraping mechanism. [Refer issue #13](https://github.com/va5355/flipkart-scraper-api/issues/13) and [Refer issue #12](https://github.com/va5355/flipkart-scraper-api/issues/12).
 
 ---
 
@@ -32,7 +32,7 @@ Supported Deployments
 
 ![Cargo](https://img.shields.io/badge/Cargo--red?logo=rust) ![Docker](https://img.shields.io/badge/Docker--blue?logo=docker) ![Nix](https://img.shields.io/badge/Nix--blue?logo=nixos)
 
-[For information on Deployment, refer documentation.](https://dvishal485.github.io/flipkart-scraper-api/#deployment)
+[For information on Deployment, refer documentation.](https://scraper-api-eyiz.onrender.com/#deployment)
 
 ---
 
@@ -72,6 +72,6 @@ Supported Deployments
 ## License & Copyright
 
 - This Project is [Apache-2.0](./LICENSE) Licensed
-- Copyright 2023 [Vishal Das](https://github.com/dvishal485)
+- Copyright 2025 [Sales Man](https://github.com/VA5355)
 
 ---
